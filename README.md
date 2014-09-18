@@ -1,6 +1,8 @@
 spla.sh
 =======
 
+> We choose to go to program color funcs in Bash, not because it is easy, but because it is hard. - *John F. Kennedy*
+
 A bash script to perform color operations
 In future, this will do a lot more - I hope!
 
@@ -12,9 +14,8 @@ Returns a list of monochromatic colors
 
 E.g ./spla.sh "#120E23"
 Returns:
-#110E22
-#1F183C
-#2C2255
+
+&#35;110E22, &#35;1F183C, &#35;2C2255
 ...and so on!
 
-Please check the LICENSE file before getting your grubby paws on this! 
+All help welcomed!
