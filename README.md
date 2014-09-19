@@ -19,3 +19,6 @@ Returns:
 ...and so on!
 
 All help welcomed!
+
+#####Disclaimer
+This was an excercise to learn more about Bash scripting and is just a bit of fun. I will one day rewrite this in another language!
